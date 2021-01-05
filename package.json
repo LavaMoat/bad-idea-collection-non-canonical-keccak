@@ -1,12 +1,22 @@
 {
   "name": "keccak",
   "version": "1.0.0",
-  "description": "",
+  "description": "non-canonical-keccak, part of the bad-idea-collection",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "postinstall": "./postinstall.sh"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LavaMoat/bad-idea-collection-non-canonical-keccak.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LavaMoat/bad-idea-collection-non-canonical-keccak/issues"
+  },
+  "homepage": "https://github.com/LavaMoat/bad-idea-collection-non-canonical-keccak#readme"
 }
